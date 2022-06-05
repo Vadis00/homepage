@@ -278,3 +278,14 @@ body {
 .additional-info__languages-item {
     color: var(--secondary-text-color);
 }
+
+.cats {
+    display: flex;
+    justify-content: center;
+}
+
+.cats__header {
+    display: flex;
+    justify-content: center;
+}
+ 
